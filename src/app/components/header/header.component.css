@@ -1,10 +1,10 @@
 .topbar{
-    height: 9vh;
+    height: 10vh;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color:#070625;
     color:#fff;
+    border-bottom: 1px solid #6e6e92;
 }
 
 .title{
