@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { DescriptionComponent } from './components/description/description.component';
 import { MercuryComponent } from './components/mercury/mercury.component';
-import { MainComponent } from './components/main/main.component';
 import { VenusComponent } from './components/venus/venus.component';
 import { MarsComponent } from './components/mars/mars.component';
 import { JupiterComponent } from './components/jupiter/jupiter.component';
@@ -20,7 +19,6 @@ import { NeptuneComponent } from './components/neptune/neptune.component';
     HeaderComponent,
     DescriptionComponent,
     MercuryComponent,
-    MainComponent,
     VenusComponent,
     MarsComponent,
     JupiterComponent,
