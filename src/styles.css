@@ -7,3 +7,27 @@
     font-family: 'poppins', sans-serif;
     background-color:#070625;
 }
+
+.content{
+    margin: 10vh 3vw 0 8vw;
+    height: 60vh;
+    width: 35vw;
+}
+
+.titleplanet{
+    display: flex;
+    justify-content: center;
+    font-size: 6vh;
+    color: #fff;
+}
+
+.contentplanet{
+    margin-top: 3vh;
+    color: #6e6e92;
+}
+.contentbody{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
