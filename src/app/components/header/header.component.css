@@ -1,0 +1,32 @@
+.topbar{
+    height: 9vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#070625;
+    color:#fff;
+}
+
+.title{
+    margin-left: 2vw;
+}
+
+.planets{   
+    list-style: none;
+    height: 9vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size:2vh;
+    font-weight: 300;
+    color:#fff;
+}
+
+.planets li{
+    cursor: pointer;
+    margin: 0 1vh 0 1vh;
+}
+
+.planets li:hover{
+    color: #7d79f6;
+}
